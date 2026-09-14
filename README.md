@@ -140,7 +140,7 @@ PCB
 
 I wanted to make a 3D model of the keyboard and import it into Onshape so I could design the case more efficiently.
 
-This turned out to be a pretty timely decision — although I wouldn't necessarily call it a mistake.
+This turned out to be a pretty timely decision, although I wouldn't necessarily call it a mistake.
 
 I wasn't sure what kind of switches I wanted to use. I ended up choosing **Cherry MX Red switches**, but I couldn't find any usable 3D models of them online.
 
