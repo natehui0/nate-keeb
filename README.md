@@ -79,6 +79,10 @@ Assembly & Testing
 
 Found a simpleish design that I thought looked relatively nice and cool. This is for planning the keyboard. I also measured the size of the different keys. 1 = regular keys on a keyboard, 1.25 = slightly bigger keys (control, windows, etc), 1.5 = tab. 1.75 = (Caps lock, backspace, etc.), 2 = enter key, 2.25 = large shift, 6.25 = spacebar. This layout seems relatively easy to design.
 
+Keyboard Design
+
+![image alt](https://github.com/natehui0/nate-keeb/blob/cdcc3f970cb1d8ffc97841481b7d620428d1d1a9/keyboard-layout-2.png)
+
 ## Progress 2 — Creating the Schematic
 
 **September 9, 2026 — 5:00 PM–7:00 PM EDT**
@@ -97,6 +101,9 @@ Another thing I wasn't sure about was which stabilizers were which.
 
 Overall, this step taught me a lot about **KiCad** and how schematic design works. I'm looking forward to seeing how this design translates into the next stage.
 
+Schematic
+
+![image alt](https://github.com/natehui0/nate-keeb/blob/d9eb6e57f53638d1765ce57265051df7d152bb8b/keyboard-design-layout-pcb.png)
 
 ## Progress 3 — PCB Layout & Routing
 
@@ -122,6 +129,10 @@ For the Design Rule Check, I only ended up with **3 issues**, which I was able t
 
 At this point, I finally had a PCB design that looked like an actual keyboard.
 
+PCB
+
+![image alt](https://github.com/natehui0/nate-keeb/blob/3df5274cb7771f9a089d9b3e168a2730a7eef365/keyboard-pcb.png)
+
 
 ## Progress 4 — Creating the 3D Model
 
@@ -141,7 +152,7 @@ After I finished that, I realized that I needed keycaps as well.
 
 I couldn't find a good source for a keycap 3D model, but luckily I found a Reddit user who had designed keycaps and provided both STEP and STL files.
 
-**What a goat.**
+**Nice.**
 
 Placing the keycaps accurately also took quite a while.
 
@@ -151,7 +162,10 @@ I ended up opening the model in Onshape and lengthening the support bar for the 
 
 After everything was finally in place, I was pretty satisfied with the result. For the first time, I could actually see a feasible version of the finished keyboard.
 
+3D Model
 
+![image alt](https://github.com/natehui0/nate-keeb/blob/cdcc3f970cb1d8ffc97841481b7d620428d1d1a9/pcb-image.png)
+![image alt](https://github.com/natehui0/nate-keeb/blob/cdcc3f970cb1d8ffc97841481b7d620428d1d1a9/keyboard-image-2.png)
 
 ## Progress 5 — Case Design
 
@@ -177,6 +191,10 @@ Eventually, everything came together.
 
 I'm extremely satisfied with the end result, and it's exciting to finally have a complete case design that I can actually print and turn into a physical keyboard.
 
+Case
+
+![image alt](https://github.com/natehui0/nate-keeb/blob/cdcc3f970cb1d8ffc97841481b7d620428d1d1a9/Screenshot%202026-09-13%20234251.png)
+![image alt](https://github.com/natehui0/nate-keeb/blob/cdcc3f970cb1d8ffc97841481b7d620428d1d1a9/Screenshot%202026-09-10%20002551.png)
 
 # Challenges So Far
 
