@@ -228,7 +228,7 @@ A lot of this project has been learning by doing, making mistakes, and figuring 
 
 ---
 
-# 🗓️ Timeline
+# Timeline
 
 | Date                  | Progress              |
 | --------------------- | --------------------- |
