@@ -131,7 +131,7 @@ At this point, I finally had a PCB design that looked like an actual keyboard.
 
 PCB
 
-![image alt](https://github.com/natehui0/nate-keeb/blob/3df5274cb7771f9a089d9b3e168a2730a7eef365/keyboard-pcb.png)
+![image alt](https://github.com/natehui0/nate-keeb/blob/3b72c3838103031ade60765d348505d58b7929e0/Screenshot%202026-09-14%20180927.png)
 
 
 ## Progress 4 — Creating the 3D Model
