@@ -123,7 +123,7 @@ Case
 ![image alt](https://github.com/natehui0/nate-keeb/blob/cdcc3f970cb1d8ffc97841481b7d620428d1d1a9/Screenshot%202026-09-13%20234251.png)
 ![image alt](https://github.com/natehui0/nate-keeb/blob/cdcc3f970cb1d8ffc97841481b7d620428d1d1a9/Screenshot%202026-09-10%20002551.png)
     
-## Progress 6 — 
+## Progress 6 — Keyboard Code
 
 **10/21/26 11 AM - 2 PM EDT**
 
