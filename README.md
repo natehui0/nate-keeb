@@ -196,6 +196,23 @@ Case
 ![image alt](https://github.com/natehui0/nate-keeb/blob/cdcc3f970cb1d8ffc97841481b7d620428d1d1a9/Screenshot%202026-09-13%20234251.png)
 ![image alt](https://github.com/natehui0/nate-keeb/blob/cdcc3f970cb1d8ffc97841481b7d620428d1d1a9/Screenshot%202026-09-10%20002551.png)
 
+## Progress 6 — 
+
+**10/21/26 11 AM - 2 PM EDT**
+
+I used Rust and rmKit to help me create the code for the keyboard. 
+
+I utilized other example projects listed in the KEEBS Slack and cross-referenced my code to theirs to ensure accuracy. 
+
+This was my first time coding with Rust and using rmKit, so it was kind of difficult learning the syntax for it, but overall, it went smoothly. 
+
+Also fixed missing items in this time period.
+
+Code
+
+![image alt](https://github.com/natehui0/nate-keeb/blob/ee3830fa33cd0445370b799dee3dc28af3778705/Screenshot%202026-10-26%20014929.png)
+![image alt](https://github.com/natehui0/nate-keeb/blob/ee3830fa33cd0445370b799dee3dc28af3778705/Screenshot%202026-10-26%20014922.png)
+
 # Challenges So Far
 
 Some of the biggest challenges I've encountered throughout the project have been:
@@ -254,3 +271,4 @@ A lot of this project has been learning by doing, making mistakes, and figuring 
 | September 10, 2026    | PCB layout & routing  |
 | September 10, 2026    | 3D component modeling |
 | September 11–13, 2026 | Case & plate design   |
+| October 21, 2026      | Writing Keyboard Code |
