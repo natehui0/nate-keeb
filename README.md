@@ -259,10 +259,6 @@ Some of the biggest challenges I've encountered throughout the project have been
 * The importance of physical clearances
 * Designing around USB access and manufacturing limitations
 
-Most importantly, I've learned that **not knowing how to do something doesn't mean I can't figure it out.**
-
-A lot of this project has been learning by doing, making mistakes, and figuring out why something didn't work.
-
 ---
 
 # Timeline
