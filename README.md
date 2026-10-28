@@ -35,12 +35,13 @@ Code
 
 # Bill of Materials
 
-Item, Price, Link, Total
-Outemu Dustproof Switch RGB 3 Pin Linear 90 CT, $28.25, https://www.aliexpress.us/item/3256805031592999.html
-White DUROCK Plate Mount Stabilizers V3, $6.85, https://www.aliexpress.us/item/3256806342416791.html
-Fast Switching Schottky Diode 100 CT, $4.71, https://www.aliexpress.us/item/3256812066033417.html
-Blank Keycaps Set of Keys PBT Keycaps DIY, $16.35, https://www.aliexpress.us/item/3256808499333851.html
-Raspberry Pi Pico Board RP2040, $3.65, https://www.aliexpress.us/item/3256805901509044.html
-PCB, $51.99, https://www.nextpcb.com/
-Additional fees (AliExpress), $4.50,,
-,,, Total: 118.20
+| Item | Price | Link |
+|---|---:|---|
+| Outemu Dustproof Switch RGB 3-Pin Linear (90 CT) | $28.25 | [AliExpress](https://www.aliexpress.us/item/3256805031592999.html) |
+| White DUROCK Plate Mount Stabilizers V3 | $6.85 | [AliExpress](https://www.aliexpress.us/item/3256806342416791.html) |
+| Fast Switching Schottky Diode (100 CT) | $4.71 | [AliExpress](https://www.aliexpress.us/item/3256812066033417.html) |
+| Blank PBT Keycaps Set (DIY) | $16.35 | [AliExpress](https://www.aliexpress.us/item/3256808499333851.html) |
+| Raspberry Pi Pico RP2040 Board | $3.65 | [AliExpress](https://www.aliexpress.us/item/3256805901509044.html) |
+| PCB | $51.99 | [NextPCB](https://www.nextpcb.com/) |
+| Additional AliExpress Fees | $4.50 | N/A |
+| **Total** | **$116.30** | |
