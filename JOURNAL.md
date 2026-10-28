@@ -14,19 +14,7 @@ Keyboard Design
 
 **September 9, 2026 — 5:00 PM–7:00 PM EDT**
 
-I was half-lost when designing this PCB.
-
-I followed the instructions on the Keeb website and ended up with the result shown below. The main difference I noticed was that the example on Keeb had the entire keyboard arranged in a grid, meaning the keys were essentially 1×1 or 1×2 and weren't laid out like a standard keyboard.
-
-Because of this, I wasn't sure if the schematic itself needed to match the physical layout of the keyboard. I ended up playing it safe and designed the schematic to match the layout of the actual keyboard.
-
-This was **extremely tedious**, since I constantly had to adjust the spacing between components to make the schematic resemble the physical keyboard.
-
-I also wasn't sure whether the Raspberry Pi Pico needed to be within the grid, so I threw it at the bottom of the grid.
-
-Another thing I wasn't sure about was which stabilizers were which.
-
-Overall, this step taught me a lot about **KiCad** and how schematic design works. I'm looking forward to seeing how this design translates into the next stage.
+I was half-lost when designing this PCB. I followed the instructions on the Keeb website and ended up with this result. The only difference that I noticed was that, in the example on Keeb, the entire keyboard was in a grid (meaning that either the keys were 1x1 or 1x2 and was not designed similarly to a standard keyboard. As a result, I was not sure if the schematic needed to match the layout of the keyboard). So I ended up playing it safe and designed the schematic to match the layout of the keyboard (which was extremely tedious, as I had to keep altering the spacing to ensure a similar design). I also wasn't sure if the pico needed to be within the grid or not, so I threw it in the bottom of the grid. Overall, this step has taught me a lot about KiCad so far, and I'm looking forward to the next step. Also, I wasn’t sure which stabilizers were which.
 
 Schematic
 
@@ -36,26 +24,7 @@ Schematic
 
 **September 10, 2026 — 6:00 AM–10:00 AM EDT**
 
-Arranging the components took the longest time during this stage.
-
-Honestly, I wasn't sure how far apart the components needed to be, so I ended up eyeballing it. Somehow, it worked out.
-
-I followed the Keeb website's example and placed the diodes to the right of the switches. Overall, I felt like this part could have been optimized the most, but it still took me way too long.
-
-### Wiring
-
-Figuring out the wiring wasn't too bad. I mostly copied how the Keeb examples looked, and it ended up looking pretty decent.
-
-The part that gave me the most trouble was figuring out how to wire some of the keys to the Raspberry Pi Pico. I ran into several wiring overlap issues, which meant I had to move things around and figure out different routing paths.
-
-Eventually, I got everything connected and it worked out well.
-
-### Design Rule Check
-
-For the Design Rule Check, I only ended up with **3 issues**, which I was able to resolve pretty quickly.
-
-At this point, I finally had a PCB design that looked like an actual keyboard.
-
+Arranging the components took the longest time of this progress. Honestly, I was not sure about how far apart the components had to be, but I ended up eyeballing it, and it worked out. I followed the Keeb website regarding putting the diode on the right of the switches, and overall I felt like this part could’ve been optimized the most, but it still took me too long. Figuring out the wiring was not bad. I just copied how the Keeb’s examples looked, and it ended up looking pretty decent. The only thing that was quite difficult and took me quite a bit was figuring out how to wire some keys to the Pico, as there were wiring overlap issues, but it ended up working well. As for the design rule check, I only ended up with 3 issues, which I resolved quite quickly. 
 PCB
 
 ![image alt](https://github.com/natehui0/nate-keeb/blob/3b72c3838103031ade60765d348505d58b7929e0/Screenshot%202026-09-14%20180927.png)
@@ -65,29 +34,7 @@ PCB
 
 **September 10, 2026 — 5:00 PM–10:00 PM EDT**
 
-I wanted to make a 3D model of the keyboard and import it into Onshape so I could design the case more efficiently.
-
-This turned out to be a pretty timely decision, although I wouldn't necessarily call it a mistake.
-
-I wasn't sure what kind of switches I wanted to use. I ended up choosing **Cherry MX Red switches**, but I couldn't find any usable 3D models of them online.
-
-Luckily, Cherry switches are extremely similar to Gateron switches, so I ended up using 3D models provided by Gateron.
-
-The annoying part was placing each switch individually into its respective switch position and making sure the pins of each switch were accurately aligned with the pinholes on the PCB.
-
-After I finished that, I realized that I needed keycaps as well.
-
-I couldn't find a good source for a keycap 3D model, but luckily I found a Reddit user who had designed keycaps and provided both STEP and STL files.
-
-**Nice.**
-
-Placing the keycaps accurately also took quite a while.
-
-Finally, I added 3D models of the screw-in stabilizers from Gateron. There was a slight issue with the spacebar because the stabilizer model wasn't long enough.
-
-I ended up opening the model in Onshape and lengthening the support bar for the spacebar stabilizer.
-
-After everything was finally in place, I was pretty satisfied with the result. For the first time, I could actually see a feasible version of the finished keyboard.
+I wanted to make a 3d model to import into Onshape so it's easier to design the case efficiently (this turned out to be a timely mistake (not really a mistake tho)). I was not sure what kind of switches to use. I ended up picking Cherry MX Red switches, but I couldn’t find any 3d models of them online. Luckily, Cherry switches are extremely similar to Gateron switches, so I ended up using 3d models provided from the Gateron website. It was extremely annoying to put each switch individually into each switch spot and ensure the pins of the switch were accurate relative to the pinholes. When I finished, I realized that I needed keycaps as well. I couldn’t find any real source that had a 3d model of keycaps. Luckily, on Reddit, there was a guy who designed keycaps (what a goat) and provided the STEP and STL files for it. Placing the keycaps accurately also took quite a while. Finally, I added 3d models of the screw-in stabilizers from the Gateron website. A slight issue was that the 3d model for the stabilizer didn’t work for the spacebar, so I went into Onshape to lengthen the support bar for the spacebar stabilizer. I was quite satisfied with the result, and I could see feasible results from this project.
 
 3D Model
 
@@ -100,41 +47,18 @@ After everything was finally in place, I was pretty satisfied with the result. F
 **September 12, 2026 — 3:00 PM–5:00 PM EDT**
 **September 13, 2026 — 10:00 PM–11:00 PM EDT**
 
-While creating the case, I realized that the Raspberry Pi Pico wasn't placed far enough outward, so I had to create a larger opening to allow the USB cable to fit.
-
-Overall, this step went the smoothest because I already had prior experience with Onshape.
-
-I decided to use an **integrated plate mounting design** because of its simplicity.
-
-I then split the bottom and top of the case into two separate parts to make the design more practical for the 3D printing process.
-
-### Plate
-
-The most tedious part of this stage was creating the plate.
-
-I had to create each individual square for the switches, which took a long time. It wasn't necessarily difficult, but there was a lot of repetitive work involved.
-
-Eventually, everything came together.
-
-I'm extremely satisfied with the end result, and it's exciting to finally have a complete case design that I can actually print and turn into a physical keyboard.
+While creating the case, I realized that the Pico wasn’t placed outward enough, so I had to create a larger hole to allow the USB cable to fit in. Overall, this step went the smoothest, as I had prior experience with Onshape. I decided to choose an integrated plate type of mounting (due to simplicity). Then I split the bottom and top into two parts to fit the 3d printing process. In the end, the most tedious process was creating the plate, as I had to create each individual square, which took a long time. In the end, I am extremely satisfied with the end result and am excited to see how it turns out.
 
 Case
 
 ![image alt](https://github.com/natehui0/nate-keeb/blob/cdcc3f970cb1d8ffc97841481b7d620428d1d1a9/Screenshot%202026-09-13%20234251.png)
 ![image alt](https://github.com/natehui0/nate-keeb/blob/cdcc3f970cb1d8ffc97841481b7d620428d1d1a9/Screenshot%202026-09-10%20002551.png)
     
-## Progress 6 — Keyboard Code
+## Progress 6 — 
 
 **10/21/26 11 AM - 2 PM EDT**
 
-I used Rust and rmKit to help me create the code for the keyboard. 
-
-I utilized other example projects listed in the KEEBS Slack and cross-referenced my code to theirs to ensure accuracy. 
-
-This was my first time coding with Rust and using rmKit, so it was kind of difficult learning the syntax for it, but overall, it went smoothly. 
-
-Also fixed missing items in this time period.
-
+I used Rust and RMK to help me create the code for the keyboard. I utilized other example projects listed in the KEEBS Slack and cross-referenced my code to theirs to ensure accuracy. This was my first time coding with Rust and using RMK, so it was kind of difficult learning the syntax for it, but overall, it went smoothly. 
 Code
 
 ![image alt](https://github.com/natehui0/nate-keeb/blob/ee3830fa33cd0445370b799dee3dc28af3778705/Screenshot%202026-10-26%20014929.png)
