@@ -63,3 +63,12 @@ Code
 ![image alt](https://github.com/natehui0/nate-keeb/blob/ee3830fa33cd0445370b799dee3dc28af3778705/Screenshot%202026-10-26%20014929.png)
 ![image alt](https://github.com/natehui0/nate-keeb/blob/ee3830fa33cd0445370b799dee3dc28af3778705/Screenshot%202026-10-26%20014922.png)
 
+
+## Progress 7 — 
+
+**10/27/26 11 PM - 10/28/26 2 AM EDT**
+
+I fixed some issues that were apparent in my repository. I rewrote my README and journal. I also re-rendered my case with the PCB and switches, as I did not have a .step file for it. I still have more issues to fix, but I think I made some great progress today.
+
+![image alt](https://github.com/natehui0/nate-keeb/blob/a267f609b57ab1e50978a479a7ad785d0c152ee4/images/Screenshot%202026-10-28%20015840.png)
+![image alt](https://github.com/natehui0/nate-keeb/blob/64aad61f469792b6b9a88adb46decc7ab656453c/images/Screenshot%202026-10-28%20012710.png)
