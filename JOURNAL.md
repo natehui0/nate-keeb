@@ -66,7 +66,7 @@ Code
 
 ## Progress 7 — Fixing issues part #1
 
-**10/27/26 11 PM - 10/28/26 2 AM EDT**
+**10/27/26 11 PM - 2 AM EDT**
 
 I fixed some issues that were apparent in my repository. I rewrote my README and journal. I also re-rendered my case with the PCB and switches, as I did not have a .step file for it. I still have more issues to fix, but I think I made some great progress today.
 
