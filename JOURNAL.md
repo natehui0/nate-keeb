@@ -51,8 +51,7 @@ While creating the case, I realized that the Pico wasn’t placed outward enough
 
 Case
 
-![image alt](https://github.com/natehui0/nate-keeb/blob/cdcc3f970cb1d8ffc97841481b7d620428d1d1a9/Screenshot%202026-09-13%20234251.png)
-![image alt](https://github.com/natehui0/nate-keeb/blob/cdcc3f970cb1d8ffc97841481b7d620428d1d1a9/Screenshot%202026-09-10%20002551.png)
+![image alt](https://github.com/natehui0/nate-keeb/blob/64aad61f469792b6b9a88adb46decc7ab656453c/images/Screenshot%202026-10-28%20012710.png)
     
 ## Progress 6 — 
 
