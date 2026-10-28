@@ -53,7 +53,7 @@ Case
 
 ![image alt](https://github.com/natehui0/nate-keeb/blob/64aad61f469792b6b9a88adb46decc7ab656453c/images/Screenshot%202026-10-28%20012710.png)
     
-## Progress 6 — 
+## Progress 6 — Keyboard Firmware Writing
 
 **10/21/26 11 AM - 2 PM EDT**
 
@@ -64,7 +64,7 @@ Code
 ![image alt](https://github.com/natehui0/nate-keeb/blob/ee3830fa33cd0445370b799dee3dc28af3778705/Screenshot%202026-10-26%20014922.png)
 
 
-## Progress 7 — 
+## Progress 7 — Fixing issues part #1
 
 **10/27/26 11 PM - 10/28/26 2 AM EDT**
 
